@@ -1,0 +1,5 @@
+Day 1:
+- Created my first GitHub repository
+- Edited README
+- Uploaded an Excel file
+- Cloned repo using GitHub Desktop
